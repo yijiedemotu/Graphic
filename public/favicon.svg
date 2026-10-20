@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="brand-blue" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72b3ff"/>
+      <stop offset="1" stop-color="#397be5"/>
+    </linearGradient>
+    <clipPath id="brand-shape"><rect width="48" height="48" rx="13"/></clipPath>
+  </defs>
+  <rect width="48" height="48" rx="13" fill="url(#brand-blue)"/>
+  <g clip-path="url(#brand-shape)" opacity=".25" transform="rotate(-28 38 40)">
+    <rect x="25" y="36" width="38" height="9" rx="4.5" fill="#fff"/>
+  </g>
+  <text x="24" y="32" text-anchor="middle" fill="#fff" font-family="STZhongsong, SimSun, serif" font-size="25" font-weight="700">图</text>
+</svg>
